@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        echo "Test GitHub"; 
+        echo "Test GitHub";
     ?>
 </body>
 </html>
